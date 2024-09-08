@@ -8,7 +8,7 @@ sudo apt install -y python3 python3-pip git
 git clone https://github.com/arun993/blum_tasks.git
 
 # Navigate to the cloned directory
-cd blumtod
+cd blum_tasks
 
 # Install required Python packages
 python3 -m pip install -r requirements.txt
